@@ -45,7 +45,7 @@ export function Footer() {
 
         <div className="mt-14 flex flex-col items-center justify-between gap-4 border-t border-border pt-8 sm:flex-row">
           <p className="text-[13px] text-muted-foreground">© 2026 IIXII™ & Aakarsh Singhal. All rights reserved. (This is just a template, not a real service)</p>
-          <p className="text-[13px] text-muted-foreground">Designed in California.</p>
+          <p className="text-[13px] text-muted-foreground">Designed in Delhi.</p>
         </div>
       </div>
     </footer>
